@@ -1,0 +1,913 @@
+[
+    {
+        "id": "analyticsZone-blog",
+        "key": "age-and-ability",
+        "value": {
+            "blogName": "AnalyticsZone Blog",
+            "owner": "tjpowers@us.ibm.com",
+            "pageOwner": "Timothy Powers/Chicago/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Analytics",
+            "totalPosts": 562,
+            "halfYearCount": 370,
+            "oldPost": "2015-11-24 22:09:36",
+            "newPost": "2017-05-17 11:43:59"
+        }
+    },
+    {
+        "id": "analytics-zone",
+        "key": "analytics-zone",
+        "value": {
+            "blogName": "analytics-zone",
+            "owner": "tim.obryan@us.ibm.com",
+            "pageOwner": "Tim O'Bryan/Schaumburg/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Analytics",
+            "totalPosts": 1251,
+            "halfYearCount": 0,
+            "oldPost": "2010-09-01 21:21:13",
+            "newPost": "2016-05-24 02:21:45"
+        }
+    },
+    {
+        "id": "azami",
+        "key": "azami",
+        "value": {
+            "blogName": "azami",
+            "owner": "KUNPIN@jp.ibm.com",
+            "pageOwner": "Rika Azami/Japan/IBM",
+            "country": "ja-jp",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "totalPosts": 367,
+            "halfYearCount": 8,
+            "oldPost": "2009-04-22 17:26:21",
+            "newPost": "2017-04-13 18:23:14"
+        }
+    },
+    {
+        "id": "ba-support-link",
+        "key": "ba-support-link",
+        "value": {
+            "blogName": "ba-support-link",
+            "owner": "Fraser.Anderson@ca.ibm.com",
+            "pageOwner": "Fraser Anderson/Ottawa/IBM",
+            "country": "en-ca",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "Public",
+            "pageCategory": "Bussiness Partners",
+            "totalPosts": 1427,
+            "halfYearCount": 0,
+            "oldPost": "2011-03-16 13:01:55",
+            "newPost": "2016-06-12 07:58:28"
+        }
+    },
+    {
+        "id": "blockchain",
+        "key": "blockchain",
+        "value": {
+            "blogName": "blockchain",
+            "owner": "tlwinman@us.ibm.com",
+            "pageOwner": "TiffanyL Winman/Tucson/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "Public",
+            "pageCategory": "Bussiness Partners",
+            "totalPosts": 683,
+            "halfYearCount": 498,
+            "oldPost": "2015-11-12 21:53:33",
+            "newPost": "2017-05-25 21:49:13"
+        }
+    },
+    {
+        "id": "blog-owner-support",
+        "key": "blog-owner-support",
+        "value": {
+            "blogName": "blog-owner-support",
+            "owner": "scott_farnsworth@us.ibm.com",
+            "pageOwner": "Scott Farnsworth/Austin/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "ibm_only",
+            "pageCategory": "Cloud",
+            "totalPosts": 223,
+            "halfYearCount": 7,
+            "oldPost": "2015-11-12 21:37:28",
+            "newPost": "2017-03-27 20:08:31"
+        }
+    },
+    {
+        "id": "blog-owner-support_test",
+        "key": "blog-owner-support_test",
+        "value": {
+            "blogName": "blog-owner-support_test",
+            "owner": "martin.stefanik@sk.ibm.com",
+            "pageOwner": "Scott Farnsworth/Austin/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "ibm_only",
+            "pageCategory": "Cloud",
+            "totalPosts": 221,
+            "halfYearCount": 3,
+            "oldPost": "2015-11-12 21:37:28",
+            "newPost": "2017-03-27 20:10:12"
+        }
+    },
+    {
+        "id": "blog-owner-support_theme-demo",
+        "key": "blog-owner-support_theme-demo",
+        "value": {
+            "blogName": "blog-owner-support_theme-demo",
+            "owner": "scott_farnsworth@us.ibm.com",
+            "pageOwner": "Scott Farnsworth/Austin/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "ibm_only",
+            "pageCategory": "Cloud",
+            "totalPosts": 161,
+            "halfYearCount": 0,
+            "oldPost": "2015-11-12 21:37:28",
+            "newPost": "2016-10-11 13:13:52"
+        }
+    },
+    {
+        "id": "bluemix",
+        "key": "bluemix",
+        "value": {
+            "blogName": "bluemix",
+            "owner": "kehn@us.ibm.com",
+            "pageOwner": "Corie C Wallen/Austin/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Cloud",
+            "totalPosts": 22144,
+            "halfYearCount": 9374,
+            "oldPost": "2013-11-21 20:14:59",
+            "newPost": "2017-12-05 00:01:45"
+        }
+    },
+    {
+        "id": "brexit",
+        "key": "brexit",
+        "value": {
+            "blogName": "brexit",
+            "owner": "james.p.robinson@uk.ibm.com",
+            "pageOwner": "James Robinson2/UK/IBM",
+            "country": "en-gb",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Cloud",    
+            "totalPosts": 165,
+            "halfYearCount": 19,
+            "oldPost": "2015-11-12 21:53:33",
+            "newPost": "2017-03-31 11:40:58"
+        }
+    },
+    {
+        "id": "brki",
+        "key": "brki",
+        "value": {
+            "blogName": "brki",
+            "owner": "adam.sauter@us.ibm.com",
+            "pageOwner": "Adam Sauter/Lincoln/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "Public",
+            "pageCategory": "Commerce",
+            "totalPosts": 390,
+            "halfYearCount": 218,
+            "oldPost": "2015-05-04 14:52:43",
+            "newPost": "2017-05-25 16:08:01"
+        }
+    },
+    {
+        "id": "business-analytics",
+        "key": "business-analytics",
+        "value": {
+            "blogName": "business-analytics",
+            "owner": "taylork@us.ibm.com",
+            "pageOwner": null,
+            "mu": false,
+            "targetAudience": null,
+            "pageCategory": "Commerce",
+            "totalPosts": 2531,
+            "halfYearCount": 1031,
+            "oldPost": "2016-01-25 17:29:40",
+            "newPost": "2017-05-26 00:12:59"
+        }
+    },
+    {
+        "id": "business-insight",
+        "key": "business-insight",
+        "value": {
+            "blogName": "business-insight",
+            "owner": "irischan@au1.ibm.com",
+            "pageOwner": "Iris Chan/Australia/IBM, Priti Ahuja/Australia/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "Public",
+            "pageCategory": "Commerce",
+            "totalPosts": 879,
+            "halfYearCount": 77,
+            "oldPost": "2012-04-11 23:52:51",
+            "newPost": "2017-05-25 16:06:50"
+        }
+    },
+    {
+        "id": "business-partner-blog",
+        "key": "business-partner-blog",
+        "value": {
+            "blogName": "business-partner-blog",
+            "owner": "madhur.goswami@in.ibm.com",
+            "pageOwner": "Madhur Goswami/India/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Commerce",
+            "totalPosts": 758,
+            "halfYearCount": 0,
+            "oldPost": "2010-05-04 23:35:02",
+            "newPost": "2016-09-12 15:57:51"
+        }
+    },
+    {
+        "id": "business-transformation-news",
+        "key": "business-transformation-news",
+        "value": {
+            "blogName": "business-transformation-news",
+            "owner": "beata.balogh@hu.ibm.com",
+            "pageOwner": "Beata Balogh/Hungary/IBM",
+            "country": "hu-hu",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "Public",
+            "pageCategory": "Commerce",
+            "totalPosts": 151,
+            "halfYearCount": 0,
+            "oldPost": "2014-09-23 11:53:42",
+            "newPost": "2016-06-12 01:25:53"
+        }
+    },
+    {
+        "id": "cloud-and-information-management",
+        "key": "cloud-and-information-management",
+        "value": {
+            "blogName": "cloud-and-information-management",
+            "owner": "mikebatt@us.ibm.com",
+            "pageOwner": "Michael Battaglia/Somers/IBM",
+            "country": "en-us",
+            "mu": false,
+            "targetAudience": "default",
+            "pageCategory": "Commerce",
+            "totalPosts": 50,
+            "halfYearCount": 2,
+            "oldPost": "2015-12-02 04:39:30",
+            "newPost": "2016-12-13 12:42:43"
+        }
+    },
+    {
+        "id": "cloud-announcements",
+        "key": "cloud-announcements",
+        "value": {
+            "blogName": "cloud-announcements",
+            "owner": "ehausken@us.ibm.com",
+            "pageOwner": "Eric Hausken/Austin/Contr/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Corporate Citizenship",
+            "totalPosts": 745,
+            "halfYearCount": 615,
+            "oldPost": "2015-11-12 21:53:33",
+            "newPost": "2017-05-25 17:25:03"
+        }
+    },
+    {
+        "id": "cloud-computing",
+        "key": "cloud-computing",
+        "value": {
+            "blogName": "cloud-computing",
+            "owner": "amelia.ross@us.ibm.com",
+            "pageOwner": "Amelia Ross/Somers/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Corporate Citizenship",
+            "totalPosts": 8500,
+            "halfYearCount": 1939,
+            "oldPost": "2011-06-07 00:29:43",
+            "newPost": "2017-05-31 09:00:38"
+        }
+    },
+    {
+        "id": "criqueliere",
+        "key": "criqueliere",
+        "value": {
+            "blogName": "criqueliere",
+            "owner": "dimitri_criqueliere@be.ibm.com",
+            "pageOwner": "Dimitri Criqueliere/Luxembourg/IBM",
+            "country": "nl-be",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "default",
+            "pageCategory": "Country",
+            "totalPosts": 49,
+            "halfYearCount": 0,
+            "oldPost": "2013-06-24 13:03:21",
+            "newPost": "2016-11-10 14:46:05"
+        }
+    },
+    {
+        "id": "cross-selling",
+        "key": "cross-selling",
+        "value": {
+            "blogName": "cross-selling",
+            "owner": "edmund.michels@de.ibm.com",
+            "pageOwner": "Edmund Michels/Germany/IBM",
+            "country": "de-de",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_personal",
+            "pageCategory": "Country",
+            "totalPosts": 244,
+            "halfYearCount": 2,
+            "oldPost": "2014-02-25 12:28:20",
+            "newPost": "2017-03-17 18:53:13"
+        }
+    },
+    {
+        "id": "dep",
+        "key": "dep",
+        "value": {
+            "blogName": "dep",
+            "owner": "esladmin@us.ibm.com",
+            "pageOwner": null,
+            "mu": false,
+            "targetAudience": null,
+            "pageCategory": "Customer Stories",
+            "totalPosts": 1364,
+            "halfYearCount": 0,
+            "oldPost": "2015-11-12 21:37:28",
+            "newPost": "2016-08-26 12:14:57"
+        }
+    },
+    {
+        "id": "digital",
+        "key": "digital",
+        "value": {
+            "blogName": "digital",
+            "owner": "esladmin@us.ibm.com",
+            "pageOwner": null,
+            "mu": false,
+            "targetAudience": null,
+            "pageCategory": "Digital",
+            "totalPosts": 2085,
+            "halfYearCount": 156,
+            "oldPost": "2016-04-04 17:15:25",
+            "newPost": "2017-05-24 19:00:43"
+        }
+    },
+    {
+        "id": "digital-devops",
+        "key": "digital-devops",
+        "value": {
+            "blogName": "digital-devops",
+            "owner": "jayant.talekar@ibm.com",
+            "pageOwner": "Jayant Talekar/US/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Digital",
+            "totalPosts": 212,
+            "halfYearCount": 56,
+            "oldPost": "2015-11-12 21:53:33",
+            "newPost": "2017-03-09 13:38:55"
+        }
+    },
+    {
+        "id": "digital-transformation",
+        "key": "digital-transformation",
+        "value": {
+            "blogName": "digital-transformation",
+            "owner": "scott_farnsworth@us.ibm.com",
+            "pageOwner": "Scott Farnsworth/Austin/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "under_development",
+            "pageCategory": "Government",
+            "totalPosts": 48,
+            "halfYearCount": 14,
+            "oldPost": "2015-11-12 21:37:28",
+            "newPost": "2016-12-11 09:38:25"
+        }
+    },
+    {
+        "id": "digital-transformation_br-pt",
+        "key": "digital-transformation_br-pt",
+        "value": {
+            "blogName": "digital-transformation_br-pt",
+            "owner": "tdegmont@br.ibm.com",
+            "pageOwner": "Tahiana Degmont/Brazil/IBM",
+            "country": "pt-br",
+            "mu": true,
+            "targetAudience": "public_company",
+            "pageCategory": "Industries",
+            "totalPosts": 239,
+            "halfYearCount": 195,
+            "oldPost": "2015-09-25 12:05:30",
+            "newPost": "2017-05-08 12:24:53"
+        }
+    },
+    {
+        "id": "ecm",
+        "key": "ecm",
+        "value": {
+            "blogName": "ecm",
+            "owner": "smwing@us.ibm.com",
+            "pageOwner": "Stephanie M Wing/Austin/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Industries",
+            "totalPosts": 1719,
+            "halfYearCount": 315,
+            "oldPost": "2014-04-24 19:35:23",
+            "newPost": "2017-05-25 14:45:57"
+        }
+    },
+    {
+        "id": "emerging-technology",
+        "key": "emerging-technology",
+        "value": {
+            "blogName": "emerging-technology",
+            "owner": "annaet@uk.ibm.com",
+            "pageOwner": "Anna Thomas2/UK/IBM",
+            "country": "en-gb",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Industries",
+            "totalPosts": 644,
+            "halfYearCount": 80,
+            "oldPost": "2014-03-11 00:43:26",
+            "newPost": "2017-04-25 14:50:43"
+        }
+    },
+    {
+        "id": "energy-utilities-solution-architects",
+        "key": "energy-utilities-solution-architects",
+        "value": {
+            "blogName": "energy-utilities-solution-architects",
+            "owner": "bmacdonald@ca.ibm.com",
+            "pageOwner": "Brian BD MacDonald/Toronto/IBM",
+            "country": "en-ca",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Industries",
+            "totalPosts": 74,
+            "halfYearCount": 6,
+            "oldPost": "2015-11-12 21:53:33",
+            "newPost": "2017-04-11 12:57:25"
+        }
+    },
+    {
+        "id": "engagement",
+        "key": "engagement",
+        "value": {
+            "blogName": "engagement",
+            "owner": "Tanja.Schmid@de.ibm.com",
+            "pageOwner": "Tanja Schmid/Germany/IBM",
+            "country": "de-de",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "default",
+            "pageCategory": "Internet of Things",
+            "totalPosts": 430,
+            "halfYearCount": 44,
+            "oldPost": "2013-08-09 15:59:56",
+            "newPost": "2017-04-27 12:43:13"
+        }
+    },
+    {
+        "id": "game-changers",
+        "key": "game-changers",
+        "value": {
+            "blogName": "game-changers",
+            "owner": "scott_farnsworth@us.ibm.com",
+            "pageOwner": "Elizabeth O'Brien/New York/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "default",
+            "pageCategory": "Security",
+            "totalPosts": 1027,
+            "halfYearCount": 49,
+            "oldPost": "2013-05-28 20:30:47",
+            "newPost": "2017-04-09 06:44:18"
+        }
+    },
+    {
+        "id": "gbs-fi-content",
+        "key": "gbs-fi-content",
+        "value": {
+            "blogName": "gbs-fi-content",
+            "owner": "minh-hai.nguyen@fi.ibm.com",
+            "pageOwner": "Minh-Hai Nguyen/Finland/IBM",
+            "country": "fi-fi",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "Public",
+            "pageCategory": "Security",
+            "totalPosts": 127,
+            "halfYearCount": 0,
+            "oldPost": "2013-03-06 12:39:18",
+            "newPost": "2016-06-12 14:50:40"
+        }
+    },
+    {
+        "id": "ianlsblog",
+        "key": "ianlsblog",
+        "value": {
+            "blogName": "ianlsblog",
+            "owner": "ian_leonard@uk.ibm.com",
+            "pageOwner": "Ian Leonard/uk/ibm",
+            "country": "en-gb",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_personal",
+            "pageCategory": "Security",
+            "totalPosts": 74,
+            "halfYearCount": 4,
+            "oldPost": "2011-03-09 17:46:02",
+            "newPost": "2016-12-20 13:04:19"
+        }
+    },
+   
+    {
+        "id": "ibm-global-financing_template",
+        "key": "ibm-global-financing_template",
+        "value": {
+            "blogName": "ibm-global-financing_template",
+            "owner": "sfarnswo@us.ibm.com",
+            "pageOwner": "Scott Farnsworth/Austin/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "ibm_only",
+            "pageCategory": "Social",
+            "totalPosts": 42,
+            "halfYearCount": 7,
+            "oldPost": "2015-11-12 21:37:28",
+            "newPost": "2016-12-06 16:48:02"
+        }
+    },
+    {
+        "id": "ibm-social-software",
+        "key": "ibm-social-software",
+        "value": {
+            "blogName": "ibm-social-software",
+            "owner": "baan_slavens@us.ibm.com",
+            "pageOwner": "Baan Slavens/Cambridge/IBM@Lotus",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "default",
+            "pageCategory": "Social",
+            "totalPosts": 652,
+            "halfYearCount": 32,
+            "oldPost": "2008-03-09 01:43:46",
+            "newPost": "2017-04-20 16:29:43"
+        }
+    },
+    {
+        "id": "ibm-training",
+        "key": "ibm-training",
+        "value": {
+            "blogName": "ibm-training",
+            "owner": "kathleen_dejongh@be.ibm.com",
+            "pageOwner": "Kathleen De Jongh/Belgium/IBM",
+            "country": "en-us",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Social",
+            "totalPosts": 1877,
+            "halfYearCount": 589,
+            "oldPost": "2013-09-30 13:58:28",
+            "newPost": "2017-05-26 03:18:44"
+        }
+    },
+    {
+        "id": "innovation",
+        "key": "innovation",
+        "value": {
+            "blogName": "innovation",
+            "owner": "danny@uk.ibm.com",
+            "pageOwner": "Danny H Williams/UK/IBM",
+            "country": "en-gb",
+            "language": "en-US",
+            "mu": false,
+            "targetAudience": "public_company",
+            "pageCategory": "Solutions",
+            "totalPosts": 232,
+            "halfYearCount": 209,
+            "oldPost": "2015-11-12 21:53:33",
+            "newPost": "2017-04-19 14:12:57"
+        }
+    },
+    {
+        "id": "insights-on-business_banking",
+        "key": "insights-on-business_banking",
+        "value": {
+            "blogName": "insights-on-business_banking",
+            "owner": "nslc@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Solutions",
+            "totalPosts": 1271,
+            "halfYearCount": 299,
+            "oldPost": "2012-06-03 07:42:55",
+            "newPost": "2017-05-25 16:02:00"
+        }
+    },
+    {
+        "id": "insights-on-business_chemicals-and-petroleum",
+        "key": "insights-on-business_chemicals-and-petroleum",
+        "value": {
+            "blogName": "insights-on-business_chemicals-and-petroleum",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Solutions",
+            "totalPosts": 655,
+            "halfYearCount": 144,
+            "oldPost": "2012-08-08 13:36:44",
+            "newPost": "2017-05-25 13:49:49"
+        }
+    },
+   
+    {
+        "id": "insights-on-business_electronics",
+        "key": "insights-on-business_electronics",
+        "value": {
+            "blogName": "insights-on-business_electronics",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-au",
+            "mu": true,
+            "targetAudience": "public_company",
+            "pageCategory": "Support",
+            "totalPosts": 1495,
+            "halfYearCount": 184,
+            "oldPost": "2011-11-04 01:18:52",
+            "newPost": "2017-05-09 10:32:04"
+        }
+    },
+    {
+        "id": "insights-on-business_energy-and-utilities",
+        "key": "insights-on-business_energy-and-utilities",
+        "value": {
+            "blogName": "insights-on-business_energy-and-utilities",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Support",
+            "totalPosts": 484,
+            "halfYearCount": 38,
+            "oldPost": "2012-05-21 15:00:42",
+            "newPost": "2017-05-09 10:37:47"
+        }
+    },
+    {
+        "id": "insights-on-business_financial-markets",
+        "key": "insights-on-business_financial-markets",
+        "value": {
+            "blogName": "insights-on-business_financial-markets",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Support",
+            "totalPosts": 247,
+            "halfYearCount": 1,
+            "oldPost": "2012-06-15 21:44:33",
+            "newPost": "2017-05-09 10:40:24"
+        }
+    },
+    {
+        "id": "insights-on-business_gbs-strategy",
+        "key": "insights-on-business_gbs-strategy",
+        "value": {
+            "blogName": "insights-on-business_gbs-strategy",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Systems",
+            "totalPosts": 1359,
+            "halfYearCount": 357,
+            "oldPost": "2010-11-16 07:28:23",
+            "newPost": "2017-05-25 20:58:54"
+        }
+    },
+    
+    {
+        "id": "insights-on-business_ibmix",
+        "key": "insights-on-business_ibmix",
+        "value": {
+            "blogName": "insights-on-business_ibmix",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Systems",
+            "totalPosts": 823,
+            "halfYearCount": 209,
+            "oldPost": "2014-10-27 08:57:47",
+            "newPost": "2017-05-22 20:21:17"
+        }
+    },
+    {
+        "id": "insights-on-business_insurance",
+        "key": "insights-on-business_insurance",
+        "value": {
+            "blogName": "insights-on-business_insurance",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Technology",
+            "totalPosts": 1393,
+            "halfYearCount": 182,
+            "oldPost": "2011-10-14 11:36:21",
+            "newPost": "2017-05-16 20:59:41"
+        }
+    },
+    {
+        "id": "insights-on-business_manufacturing",
+        "key": "insights-on-business_manufacturing",
+        "value": {
+            "blogName": "insights-on-business_manufacturing",
+            "owner": "ccmikusa@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Technology",
+            "totalPosts": 364,
+            "halfYearCount": 85,
+            "oldPost": "2013-05-08 16:44:17",
+            "newPost": "2017-05-09 11:00:27"
+        }
+    },
+    {
+        "id": "insights-on-business_oracle-consulting",
+        "key": "insights-on-business_oracle-consulting",
+        "value": {
+            "blogName": "insights-on-business_oracle-consulting",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Technology",
+            "totalPosts": 846,
+            "halfYearCount": 78,
+            "oldPost": "2013-04-25 19:36:21",
+            "newPost": "2017-05-09 11:03:01"
+        }
+    },
+    {
+        "id": "insights-on-business_retail",
+        "key": "insights-on-business_retail",
+        "value": {
+            "blogName": "insights-on-business_retail",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Technology",
+            "totalPosts": 2130,
+            "halfYearCount": 211,
+            "oldPost": "2011-10-13 07:30:32",
+            "newPost": "2017-05-18 19:02:40"
+        }
+    },
+    {
+        "id": "ibm think",
+        "key": "ibm think",
+        "value": {
+            "blogName": "ibm think",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Think",
+            "totalPosts": 2130,
+            "halfYearCount": 211,
+            "oldPost": "2011-10-13 07:30:32",
+            "newPost": "2017-05-18 19:02:40"
+        }
+    },
+    {
+        "id": "IBM Think - Belgium/Luxembourg (Dutch)",
+        "key": "IBM Think - Belgium/Luxembourg (Dutch)",
+        "value": {
+            "blogName": "IBM Think - Belgium/Luxembourg (Dutch)",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Think",
+            "totalPosts": 2130,
+            "halfYearCount": 211,
+            "oldPost": "2011-10-13 07:30:32",
+            "newPost": "2017-05-18 19:02:40"
+        }
+    },
+    {
+        "id": "IBM Think - Denmark (Danish)",
+        "key": "IBM Think - Denmark (Danish)",
+        "value": {
+            "blogName": "IBM Think - Denmark (Danish)",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "language": "Danish",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Think",
+            "totalPosts": 2130,
+            "halfYearCount": 211,
+            "oldPost": "2011-10-13 07:30:32",
+            "newPost": "2017-05-18 19:02:40"
+        }
+    },
+    {
+        "id": "IBM Think",
+        "key": "IBM Think",
+        "value": {
+            "blogName": "IBM Think",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "en-us",
+            "language": "Danish",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Think",
+            "totalPosts": 2130,
+            "halfYearCount": 211,
+            "oldPost": "2011-10-13 07:30:32",
+            "newPost": "2017-05-18 19:02:40"
+        }
+    },
+    {
+        "id": "IBM Think - Netherlands (Dutch)",
+        "key": "IBM Think - Netherlands (Dutch)",
+        "value": {
+            "blogName": "IBM Think - Netherlands (Dutch)",
+            "owner": "atwojton@us.ibm.com",
+            "pageOwner": "Clark C Mikus-aul/Hartford/IBM",
+            "country": "Dutch",
+            "mu": true,
+            "targetAudience": "default",
+            "pageCategory": "Think",
+            "totalPosts": 2130,
+            "halfYearCount": 211,
+            "oldPost": "2011-10-13 07:30:32",
+            "newPost": "2017-05-18 19:02:40"
+        }
+    }
+]

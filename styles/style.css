@@ -1,0 +1,20 @@
+.mg-bt {
+	margin-bottom:15px;
+}
+
+.mg-top {
+	margin-top:47px;
+}
+
+.mg-top-7 {
+	margin-top:7px;
+}
+
+a:hover {
+	text-decoration: underline;
+	color:rgb(65,120,190);
+}
+
+.middle-content {
+	background-color: #FCFCFC;
+}
